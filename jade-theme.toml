@@ -1,0 +1,75 @@
+[colors.primary]
+foreground = "#319b9b"
+background = "#e1f6f6"
+dim_foreground = "#7bb5b5"
+bright_foreground = "#319b9b"
+
+[colors.cursor]
+foreground = "#319b9b"
+cursor = "#9ab8b8"
+
+[colors.vi_mode_cursor]
+foreground = "#319b9b"
+cursor = "#9ab8b8"
+
+[colors.search.matches]
+foreground = "#7bb5b5"
+background = "#d6efef"
+
+[colors.search.focused_match]
+foreground = "#e1f6f6"
+background = "#000000"
+
+[colors.hints.start]
+foreground = "#7bb5b5"
+background = "#e0f6f6"
+
+[colors.hints.end]
+foreground = "#abcccc"
+background = "#e0f6f6"
+
+[colors.line_indicator]
+foreground = "None"
+background = "None"
+
+[colors.footer_bar]
+foreground = "#319b9b"
+background = "#e0f6f6"
+
+[colors.selection]
+text = "#319b9b"
+background = "#b2d6d6"
+
+[colors.normal]
+black = '#4d7e7e'
+red = '#a2e2e2'
+green = '#c2f2f2'
+yellow = '#d4f4f4'
+blue = '#a2e2e2'
+magenta = '#b3eaea'
+cyan = '#e6fcfc'
+white = '#ffffff'
+
+[colors.dim]
+black = '#4d7e7e'
+red = '#a2e2e2'
+green = '#c2f2f2'
+yellow = '#d4f4f4'
+blue = '#a2e2e2'
+magenta = '#b3eaea'
+cyan = '#e6fcfc'
+white = '#ffffff'
+
+[colors.bright]
+black = '#4d7e7e'
+red = '#a2e2e2'
+green = '#c2f2f2'
+yellow = '#d4f4f4'
+blue = '#a2e2e2'
+magenta = '#b3eaea'
+cyan = '#e6fcfc'
+white = '#ffffff'
+
+
+
+
