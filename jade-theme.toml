@@ -51,7 +51,7 @@ cyan    = "#7bb5b5"  # Same as green for consistency
 white   = "#e1f6f6"  # Same as your existing foreground
 
 [colors.bright]
-black   = "#9ab8b8"  # Slightly lighter than the normal black
+black   = "#7bb5b5"  # Slightly lighter than the normal black
 red     = "#b4637a"  # Same as Rose Pine Dawn
 green   = "#7bb5b5"  # Match to your existing greenish shade
 yellow  = "#9ab8b8"  # Adjusted to fit within the monochrome palette
@@ -61,7 +61,7 @@ cyan    = "#7bb5b5"  # Same as green for consistency
 white   = "#e1f6f6"  # Same as your existing foreground
 
 [colors.dim]
-black   = "#9ab8b8"  # Slightly lighter than the normal black
+black   = "#7bb5b5"  # Slightly lighter than the normal black
 red     = "#b4637a"  # Same as Rose Pine Dawn
 green   = "#7bb5b5"  # Match to your existing greenish shade
 yellow  = "#9ab8b8"  # Adjusted to fit within the monochrome palette
