@@ -41,35 +41,33 @@ text = "#319b9b"
 background = "#b2d6d6"
 
 [colors.normal]
-black = '#4d7e7e'
-red = '#a2e2e2'
-green = '#c2f2f2'
-yellow = '#d4f4f4'
-blue = '#a2e2e2'
-magenta = '#b3eaea'
-cyan = '#e6fcfc'
-white = '#ffffff'
-
-[colors.dim]
-black = '#4d7e7e'
-red = '#a2e2e2'
-green = '#c2f2f2'
-yellow = '#d4f4f4'
-blue = '#a2e2e2'
-magenta = '#b3eaea'
-cyan = '#e6fcfc'
-white = '#ffffff'
+black   = "#ffffff"  # Adjusted to match a darker shade of your background
+red     = "#b4637a"  # Same as Rose Pine Dawn
+green   = "#7bb5b5"  # Match to your existing greenish shade
+yellow  = "#9ab8b8"  # Adjusted to fit within the monochrome palette
+blue    = "#8cbfbd"  # Slightly darker shade of your cyan
+magenta = "#8cbfbd"  # Similar to blue to maintain the monochrome effect
+cyan    = "#7bb5b5"  # Same as green for consistency
+white   = "#e1f6f6"  # Same as your existing foreground
 
 [colors.bright]
-black = '#4d7e7e'
-red = '#a2e2e2'
-green = '#c2f2f2'
-yellow = '#d4f4f4'
-blue = '#a2e2e2'
-magenta = '#b3eaea'
-cyan = '#e6fcfc'
-white = '#ffffff'
+black   = "#9ab8b8"  # Slightly lighter than the normal black
+red     = "#b4637a"  # Same as Rose Pine Dawn
+green   = "#7bb5b5"  # Match to your existing greenish shade
+yellow  = "#9ab8b8"  # Adjusted to fit within the monochrome palette
+blue    = "#8cbfbd"  # Slightly darker shade of your cyan
+magenta = "#8cbfbd"  # Similar to blue to maintain the monochrome effect
+cyan    = "#7bb5b5"  # Same as green for consistency
+white   = "#e1f6f6"  # Same as your existing foreground
 
-
+[colors.dim]
+black   = "#9ab8b8"  # Slightly lighter than the normal black
+red     = "#b4637a"  # Same as Rose Pine Dawn
+green   = "#7bb5b5"  # Match to your existing greenish shade
+yellow  = "#9ab8b8"  # Adjusted to fit within the monochrome palette
+blue    = "#8cbfbd"  # Slightly darker shade of your cyan
+magenta = "#8cbfbd"  # Similar to blue to maintain the monochrome effect
+cyan    = "#7bb5b5"  # Same as green for consistency
+white   = "#e1f6f6"  # Same as your existing foreground
 
 
